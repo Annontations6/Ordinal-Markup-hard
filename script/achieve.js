@@ -23,7 +23,7 @@ const achieveData = [
       "Double Ackermann Ordinal",
       "The Bachmann Howard Ordinal",
       "To the BHO and Beyond!",
-      "Ackermann's BHO"
+      "Ackermann's BHOS"
     ],
     tooltip: [
       "Click the successor Button",
